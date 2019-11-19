@@ -1,8 +1,6 @@
 # basic-train-on-cifar10
 basic training on CIFAR10 dataset with ResNet 
 
-
-
 |   Model  |  n   | 200-epoch ResNet v1, % Accuracy | Orig. Paper ResNet v1, % Accuracy | 200-epoch ResNet v2, % Accuracy | Orig. Paper ResNet v2, % Accuracy | sec/epoch, GTX1080Ti, v1 (v2)|
 |:-------- |:----:|:---------:|:---------: |:---------: |:---------: |:--------: |
  ResNet20  | 3 (2)| 92.16     | 91.25      |            |            | 35 (   )  |
